@@ -1,0 +1,23 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "🎯 Yazılım test süreçlerine ilgi duyan bir **Test Uzmanlığı Adayıyım**.   Kullanıcı deneyimini en iyi hale getirmek için test yapmaktan ve hataları ortaya çıkarmaktan keyif alıyorum.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sevcan-turan/sevcanturan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sevcan-turan/sevcanturan/issues"
+  },
+  "homepage": "https://github.com/sevcan-turan/sevcanturan#readme",
+  "devDependencies": {
+    "jest": "^30.0.5"
+  }
+}
